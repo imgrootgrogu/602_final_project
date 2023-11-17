@@ -1,2 +1,2 @@
 # 602_final_project
-Reginal population analysis and prediction
+Video game company stock price prediction
