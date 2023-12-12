@@ -1,3 +1,7 @@
 Link to our website: https://finalweb3py-oxqowjg6hbrvqyjvth2jip.streamlit.app/
 
 Note: The API key has a limit of 25 inquiries per day, accessing too many times can cause our application to crash
+
+Note: The app was deployed using a link to a seperate GitHub in which the .txt file and .py code are the only files in the repository. The link to the GitHub used to create the 
+app can be found here: https://github.com/maggiekimbis/602_final_part2/tree/main 
+However both files from that repository have been added to this one for easy access. 
