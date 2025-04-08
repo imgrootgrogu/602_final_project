@@ -18,8 +18,8 @@ from sklearn.metrics import mean_absolute_percentage_error
 from sklearn.model_selection import TimeSeriesSplit
 from sklearn.metrics import mean_squared_error
 
-keys = ['YR7C1B1NPZ97A348', 'JCQFVNBK3U8QMZ0T', 'P1Y9WYCX6JNW4N1M', 'HP94RXLQOYEWVCMZ']
-MY_KEY = "HP94RXLQOYEWVCMZ"
+keys = ['*']
+MY_KEY = "*"
 st.title('Nintendo And Rockstar Stock Forecast')
 stocks = ('NTDOY', 'TTWO')
 selected_stock = st.selectbox('Select stock for prediction', stocks)
